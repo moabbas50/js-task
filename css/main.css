@@ -1,0 +1,42 @@
+.dark{
+    background-color: black ;
+    color: white;
+}
+.btn{
+    border: 0px solid;
+    background-color: rgba(0, 0,0, 0);
+    font-size: 50px;
+    cursor: pointer;
+}
+.btn-dark{
+    border: 0px solid;
+    background-color: rgba(0, 0,0, 0);
+    font-size: 50px;
+    text-shadow: 0 0 20px black;  cursor: pointer;
+}
+
+
+.btn-light{
+    color: rgb(251, 255, 0) ;
+    text-shadow: 0 0 20px rgb(251, 255, 0);
+    border: 0px solid;
+    background-color: rgba(0, 0,0, 0);
+    font-size: 50px;
+    cursor: pointer;
+} 
+.btn-rem{
+    color: white;
+    border: 0px solid;
+    background-color: rgba(0, 0,0, 0);
+    font-size: 50px;
+    cursor: pointer;
+}
+.hbtn{
+    border: 0px solid;
+    background-color: rgba(63, 157, 180, 0.5);
+    font-size: 30px;
+    padding: 5px 20px;
+    border-radius: 12.5px;
+    cursor: pointer;
+    margin-top: 35px;
+}
